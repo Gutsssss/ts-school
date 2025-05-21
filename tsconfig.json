@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "noImplicitAny": true,
+    "outFile": "../../built/local/tsc.js",
+    "sourceMap": true,
+    "strict": true,
+    "strictNullChecks": true
+}}
